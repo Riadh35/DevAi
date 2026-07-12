@@ -1,0 +1,84 @@
+CONTRAT DE LICENCE UTILISATEUR FINAL — DevAI
+=============================================
+
+Version 0.3.0 — 2026
+Titulaire des droits : Riadh35
+Contact : https://github.com/Riadh35/DevAi
+
+
+1. DÉFINITIONS
+   « Logiciel » désigne l'application DevAI distribuée sous forme binaire
+   (installeur ou archive portable), y compris le runtime embarqué, le code
+   applicatif compilé et les ressources associées.
+
+
+2. CONCESSION DE LICENCE
+   Sous réserve du respect du présent contrat, le Titulaire vous accorde une
+   licence personnelle, mondiale, non exclusive, non transférable et GRATUITE
+   d'installer et d'utiliser le Logiciel, y compris à des fins professionnelles
+   internes.
+
+
+3. RESTRICTIONS
+   Sauf autorisation écrite préalable du Titulaire, vous NE POUVEZ PAS :
+   (a) redistribuer, revendre, louer, prêter ou héberger le Logiciel pour des
+       tiers ;
+   (b) désassembler, décompiler, faire de l'ingénierie inverse ou tenter d'en
+       extraire le code source, sauf dans la mesure permise impérativement par
+       la loi ;
+   (c) modifier, adapter ou créer des œuvres dérivées du Logiciel ;
+   (d) supprimer ou altérer les mentions de propriété, de licence ou d'origine ;
+   (e) utiliser le Logiciel pour mener des activités illégales ou porter atteinte
+       aux droits de tiers.
+
+
+4. PROPRIÉTÉ
+   Le Logiciel est concédé sous licence, non vendu. Le Titulaire conserve tous
+   les droits de propriété intellectuelle sur le Logiciel. Aucun droit non
+   expressément accordé ici ne vous est conféré.
+
+
+5. COMPOSANTS TIERS
+   Le Logiciel embarque des composants tiers régis par leurs propres licences,
+   listés dans le fichier NOTICE.txt. Ces licences prévalent pour lesdits
+   composants. Le présent contrat ne restreint pas vos droits sur ces composants
+   dans la mesure où leurs licences respectives vous les accordent.
+
+
+6. DÉPENDANCE EXTERNE
+   Le Logiciel nécessite le logiciel tiers « Ollama », NON fourni ni redistribué,
+   à installer séparément par vous selon ses propres conditions.
+
+
+7. DONNÉES
+   Le Logiciel fonctionne localement et ne transmet pas vos données au Titulaire.
+   Vous êtes seul responsable des données que vous traitez avec le Logiciel.
+
+
+8. ABSENCE DE GARANTIE
+   LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE, EXPRESSE
+   OU IMPLICITE, NOTAMMENT DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE
+   PARTICULIER ET D'ABSENCE DE CONTREFAÇON. VOUS UTILISEZ LE LOGICIEL À VOS
+   RISQUES.
+
+
+9. LIMITATION DE RESPONSABILITÉ
+   DANS TOUTE LA MESURE PERMISE PAR LA LOI, LE TITULAIRE NE SAURAIT ÊTRE TENU
+   RESPONSABLE DE TOUT DOMMAGE DIRECT, INDIRECT, ACCESSOIRE OU CONSÉCUTIF
+   (PERTE DE DONNÉES, DE PROFITS, INTERRUPTION D'ACTIVITÉ) LIÉ À L'UTILISATION
+   OU À L'IMPOSSIBILITÉ D'UTILISER LE LOGICIEL.
+
+
+10. RÉSILIATION
+    La licence prend fin automatiquement en cas de manquement au présent contrat.
+    À la résiliation, vous devez cesser toute utilisation et supprimer le Logiciel.
+
+
+11. DROIT APPLICABLE
+    Le présent contrat est régi par le droit applicable au domicile du Titulaire.
+    Tout litige relève des tribunaux compétents de ce ressort.
+
+
+En installant ou en utilisant le Logiciel, vous acceptez les termes ci-dessus.
+
+© 2026 Riadh35. Tous droits réservés.

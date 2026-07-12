@@ -1,0 +1,4 @@
+*.zip
+*.exe
+dist-app/
+dist-installer/

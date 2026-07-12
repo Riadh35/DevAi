@@ -1,0 +1,63 @@
+DevAI — Composants tiers embarqués (NOTICE)
+============================================
+
+Ce logiciel est distribué avec des composants tiers, chacun sous sa propre
+licence. Cette liste doit être VÉRIFIÉE ET COMPLÉTÉE avant toute diffusion
+publique (faire valider par un professionnel du droit).
+
+--------------------------------------------------------------------------
+Runtime
+--------------------------------------------------------------------------
+- Python (distribution embeddable)          — Python Software Foundation License
+  https://www.python.org
+
+--------------------------------------------------------------------------
+Bibliothèques Python (installées via pip — voir requirements-dist.txt)
+--------------------------------------------------------------------------
+- FastAPI, Starlette            — MIT
+- Uvicorn                       — BSD-3-Clause
+- Pydantic                      — MIT
+- ollama (client python)        — MIT
+- httpx, httpcore               — BSD-3-Clause
+- GitPython                     — BSD-3-Clause
+- ddgs                          — MIT
+- jsonpath-ng                   — Apache-2.0
+- mcp (Model Context Protocol)  — MIT
+  (+ leurs dépendances transitives — générer la liste complète via
+   `pip-licenses` sur le runtime pour être exhaustif)
+
+--------------------------------------------------------------------------
+Moteur d'agent optionnel
+--------------------------------------------------------------------------
+- hermes-agent (Nous Research)  — MIT
+  (embarqué uniquement si tu inclus ce moteur dans la distribution)
+
+--------------------------------------------------------------------------
+Frontend
+--------------------------------------------------------------------------
+- React, React-DOM              — MIT
+- Vite                          — MIT
+- Tailwind CSS                  — MIT
+- lucide-react (icônes)         — ISC
+- Zustand, TanStack Query,
+  react-markdown, remark/rehype — MIT
+  (voir frontend/package.json pour la liste complète)
+
+--------------------------------------------------------------------------
+Skills embarqués
+--------------------------------------------------------------------------
+Certains skills sont adaptés de sources externes, créditées dans leur
+frontmatter (champs source_url / license / adapted_from). Vérifier chacun
+avant distribution et conserver l'attribution requise.
+
+--------------------------------------------------------------------------
+Dépendance externe NON embarquée
+--------------------------------------------------------------------------
+- Ollama — installé séparément par l'utilisateur (https://ollama.com).
+  Non redistribué par ce paquet.
+
+============================================
+TODO avant publication :
+- [ ] Générer la liste exhaustive des licences (pip-licenses + package.json)
+- [ ] Vérifier la compatibilité de chaque licence avec ta distribution
+- [ ] Conserver les textes de licence requis (MIT/BSD imposent l'attribution)
