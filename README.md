@@ -23,6 +23,8 @@ durable — **sans jamais envoyer votre code dans le cloud.**
 
 ---
 
+![DevAI — l'application](docs/screenshots/chat.png)
+
 ## Pourquoi DevAI ?
 
 - 🔒 **Confidentialité totale.** Tout s'exécute en local via [Ollama](https://ollama.com).
@@ -55,6 +57,12 @@ durable — **sans jamais envoyer votre code dans le cloud.**
 
 > 💡 Aucune installation de Python n'est nécessaire : DevAI embarque son propre
 > runtime. Seul **Ollama** est requis (gratuit).
+
+## Aperçu
+
+| Bibliothèque de prompts | Diagnostic & consommation | Aide intégrée |
+|:---:|:---:|:---:|
+| ![Prompts](docs/screenshots/prompts.png) | ![Diagnostic](docs/screenshots/diagnostic.png) | ![Aide](docs/screenshots/checkpoints.png) |
 
 ## Configuration requise
 
